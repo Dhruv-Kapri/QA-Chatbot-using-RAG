@@ -1,0 +1,22 @@
+numpy
+pandas
+scikit-learn
+scipy
+
+torch --index-url https://download.pytorch.org/whl/cpu
+cohere
+openai
+
+langchain
+langchain-openai
+langchain-cohere
+
+pypdf
+faiss-cpu
+tiktoken
+sentence-transformers
+transformers
+
+# for gpu support
+# torch --index-url https://download.pytorch.org/whl/cu121
+# faiss-gpu
