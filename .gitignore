@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data (large / generated)
+**/data/raw/
+**/data/processed/
+
+# Model weights
+*.pt
+*.pth
+
+# Training artifacts
+runs/
+logs/
+checkpoints/
+
+# Environment files
+.env
+
+# OS / IDE
+.DS_Store
+.vscode/
