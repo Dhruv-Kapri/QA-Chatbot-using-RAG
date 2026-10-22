@@ -127,3 +127,6 @@ Create a `.env` file in the root directory, with content:
 
 ## License  
 MIT License - feel free to use this code for your own projects!
+---
+
+<sub>Part of [Dhruv Kapri's portfolio](https://dhruv-kapri.github.io/) · [all projects](https://github.com/Dhruv-Kapri)</sub>
